@@ -1,0 +1,29 @@
+/* Add styling */
+* {
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+
+
+/* USE THIS FOR SHORTER CODE */
+/* ul, li a {
+    list-style-type: none;
+    text-decoration: none;
+} */
+
+/* USE THIS FOR MORE SPECIFIC STYLING */
+li a{
+    text-decoration: none;
+    color: rgb(21, 27, 51);
+    font-weight: 600;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+.recipes {
+    font-size: 1.5em;
+    line-height: 1.3;
+}
